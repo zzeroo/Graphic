@@ -6,15 +6,15 @@
 
 
 // Setup for ST7565R in SPI mode
-/** The chip select pin */
-#define GLCD_CS1 PIN_A5
-/** The reset pin (this is required and should not be tied high) */
-#define GLCD_RESET PIN_A4
-/** The A0 pin, which selects command or data mode */
-#define GLCD_A0 PIN_C0
-/** The clock pin */
+/**(PIN 40) The chip select pin */
+#define GLCD_CS1 PIN_A4
+/**(PIN 39) The reset pin (this is required and should not be tied high) */
+#define GLCD_RESET PIN_A5
+/**(PIN 38) The A0 pin, which selects command or data mode */
+#define GLCD_A0 PIN_C2
+/**(PIN 37) The clock pin */
 #define GLCD_SCL PIN_C3
-/** The data pin */
+/**(PIN 36) The data pin */
 #define GLCD_SDA PIN_C5
 
 /** Screen width in pixels (tested with 128) */

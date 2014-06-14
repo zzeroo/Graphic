@@ -7,4 +7,4 @@ Diese Bibliothek ist abgeleitet von:
 
 
 # Weitere Links
-- (Erklärung des Algorithmus der zur Zeichnung verwendet wird)[http://www.gamedev.net/page/resources/_/technical/game-programming/line-drawing-algorithm-explained-r1275]
+- [Erklärung des Algorithmus der zur Zeichnung verwendet wird](http://www.gamedev.net/page/resources/_/technical/game-programming/line-drawing-algorithm-explained-r1275)
